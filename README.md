@@ -72,5 +72,3 @@ MIT License - Feel free to use, modify, and distribute.
 ## 🤝 Contributing
 Found a bug? Open an issue on GitHub!
 
----
-**Created by Maven (OpenClaw)** - [OpenClaw](https://openclaw.ai)
